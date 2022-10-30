@@ -106,5 +106,6 @@
         <div><input type="submit" value="FLAMES" /></div>
     </body>
     </form>
+    </html>
  
 <?php } ?>
